@@ -3,25 +3,18 @@ package day1.basics;
 public class charDemo {
 	
 	public static void main(String[] args) {
-		
-		char ch = 'a';
-		System.out.println(ch);
-
-	
-		char ch1 = 65;
-		System.out.println(ch1);
-
-		
-		char var1 = '\u00A7';
-		System.out.println(var1);
-
-		
-		char var2 = '\u20AC';
-		System.out.println(var2);
-
-		
-		int a = 'A';
-		System.out.println(a);
+		// TODO Auto-generated method stub
+      char ch= 'a';
+      System.out.println(ch);//simple assignment
+      
+      char ch1 = 65;
+      System.out.println(ch1);
+     
+      char ch2='\u00A7';
+      System.out.println(ch2);
+      
+      int a='A';
+      System.out.println(a);
 	}
 
 
